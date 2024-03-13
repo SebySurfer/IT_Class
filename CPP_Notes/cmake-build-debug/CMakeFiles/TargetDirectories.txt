@@ -1,0 +1,3 @@
+/Users/Sebastian 1/Desktop/IT/CPP_Notes/cmake-build-debug/CMakeFiles/C__.dir
+/Users/Sebastian 1/Desktop/IT/CPP_Notes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Sebastian 1/Desktop/IT/CPP_Notes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

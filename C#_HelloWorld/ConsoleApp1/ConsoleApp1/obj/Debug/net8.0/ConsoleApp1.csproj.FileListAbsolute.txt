@@ -1,0 +1,14 @@
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

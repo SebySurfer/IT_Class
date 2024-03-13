@@ -1,0 +1,14 @@
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/bin/Debug/net8.0/Extra_Credit_Test_Redo
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/bin/Debug/net8.0/Extra_Credit_Test_Redo.deps.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/bin/Debug/net8.0/Extra_Credit_Test_Redo.runtimeconfig.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/bin/Debug/net8.0/Extra_Credit_Test_Redo.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/bin/Debug/net8.0/Extra_Credit_Test_Redo.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.AssemblyInfoInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.AssemblyInfo.cs
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.csproj.CoreCompileInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/refint/Extra_Credit_Test_Redo.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/Extra_Credit_Test_Redo.genruntimeconfig.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Extra_Credit_Test_Redo/Extra_Credit_Test_Redo/obj/Debug/net8.0/ref/Extra_Credit_Test_Redo.dll

@@ -1,0 +1,14 @@
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/bin/Debug/net8.0/Class_Ex
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/bin/Debug/net8.0/Class_Ex.deps.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/bin/Debug/net8.0/Class_Ex.runtimeconfig.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/bin/Debug/net8.0/Class_Ex.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/bin/Debug/net8.0/Class_Ex.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.AssemblyInfoInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.AssemblyInfo.cs
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.csproj.CoreCompileInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/refint/Class_Ex.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/Class_Ex.genruntimeconfig.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/Class_Ex/Class_Ex/obj/Debug/net8.0/ref/Class_Ex.dll

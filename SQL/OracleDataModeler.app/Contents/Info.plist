@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>datamodeler.sh</string>
+	<key>CFBundleIconFile</key>
+	<string>OracleDataModelerIcons</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.oracle.OracleDataModeler</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>OracleDM</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>exec</key>
+	<string>blah</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>Oracle Data Modeler requests access to the user's Desktop folder.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>Oracle Data Modeler requests access to the user's Documents folder.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>Oracle Data Modeler requests access to the user's Downloads folder.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>Oracle Data Modeler requests access to files on a network volume.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>Oracle Data Modeler requests access to files on a removable volume.</string>
+</dict>
+</plist>

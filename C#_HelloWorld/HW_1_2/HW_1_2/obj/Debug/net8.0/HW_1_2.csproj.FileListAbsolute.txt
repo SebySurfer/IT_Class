@@ -1,0 +1,14 @@
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/bin/Debug/net8.0/HW_1_2
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/bin/Debug/net8.0/HW_1_2.deps.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/bin/Debug/net8.0/HW_1_2.runtimeconfig.json
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/bin/Debug/net8.0/HW_1_2.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/bin/Debug/net8.0/HW_1_2.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.AssemblyInfoInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.AssemblyInfo.cs
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.csproj.CoreCompileInputs.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/refint/HW_1_2.dll
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.pdb
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/HW_1_2.genruntimeconfig.cache
+/Users/Sebastian 1/Desktop/IT/C#_HelloWorld/HW_1_2/HW_1_2/obj/Debug/net8.0/ref/HW_1_2.dll
